@@ -1,0 +1,76 @@
+{
+	"id": "0001",
+	"name": "Robin Williams",
+	"piano": 2,
+	"dimensioni": 300,
+	"info_posti": {
+		"map": "http://ecx.images-amazon.com/images/I/41ikmXJSUKL._SX342_.jpg",
+		"tot": 125,
+		"tot_comfort": 50,
+		"tot_handicap": 10,
+		"file": [{
+			"fila": 1,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 4,
+			"handicap": 1
+		}, {
+			"fila": 2,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 4,
+			"handicap": 1
+		}, {
+			"fila": 3,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 4,
+			"handicap": 1
+		}, {
+			"fila": 4,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 4,
+			"handicap": 1
+		}, {
+			"fila": 5,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 4,
+			"handicap": 1
+		}, {
+			"fila": 6,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 9,
+			"handicap": 1
+		}, {
+			"fila": 7,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 9,
+			"handicap": 1
+		}, {
+			"fila": 8,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 9,
+			"handicap": 1
+		}, {
+			"fila": 9,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 9,
+			"handicap": 1
+		}, {
+			"fila": 10,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 9,
+			"handicap": 1
+		}]
+	},
+	"supported_projection": ["digital", "3d"],
+	"audio": "dolby digital",
+	"screenL": 24,
+	"screenH": 10}

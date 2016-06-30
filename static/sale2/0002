@@ -1,0 +1,76 @@
+{"id": "0002",
+	"name": "Mel Gibson",
+	"piano": 1,
+	"dimensioni": 200,
+	"info_posti": {
+		"map": "http://ecx.images-amazon.com/images/I/41ikmXJSUKL._SX342_.jpg",
+		"tot": 95,
+		"tot_comfort": 50,
+		"tot_handicap": 5,
+		"file": [{
+			"fila": 1,
+			"tot": 15,
+			"comfort": 5,
+			"normal": 5,
+			"handicap": 5
+		}, {
+			"fila": 2,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 5,
+			"handicap": 0
+		}, {
+			"fila": 3,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 5,
+			"handicap": 0
+		}, {
+			"fila": 4,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 5,
+			"handicap": 0
+		}, {
+			"fila": 5,
+			"tot": 10,
+			"comfort": 5,
+			"normal": 5,
+			"handicap": 0
+		}, {
+			"fila": 6,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 10,
+			"handicap": 0
+		}, {
+			"fila": 7,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 10,
+			"handicap": 0
+		}, {
+			"fila": 8,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 10,
+			"handicap": 0
+		}, {
+			"fila": 9,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 10,
+			"handicap": 0
+		}, {
+			"fila": 10,
+			"tot": 10,
+			"comfort": 0,
+			"normal": 10,
+			"handicap": 0
+		}]
+	},
+	"supported_projection": ["digital"],
+	"audio": "dolby digital",
+	"screenL": 12,
+	"screenH": 8
+}
